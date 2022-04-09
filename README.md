@@ -21,6 +21,6 @@ I wanted to get familiar with the Unity Game Engine, Unity UI, and the general p
 
 [I learned the process from Mark Brown.](https://www.youtube.com/watch?v=vFjXKOXdgGo&list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n&index=2)
 
-1. Learn the absolute basics about Unity.
-2. Reimplement existing games to solidify Unity concepts. Rinse and Repeat.
+1. Learn the [absolute basics about Unity](https://www.youtube.com/watch?v=E6A4WvsDeLE) and the [same for C#](https://www.youtube.com/watch?v=IFayQioG71A&list=PLzDRvYVwl53t2GGC4rV_AmH7vSvSqjVmz).
+2. Reimplement [existing games](https://en.wikipedia.org/wiki/List_of_video_game_genres) to solidify Unity concepts. Rinse and Repeat.
 3. Once, I've reimplemented enough games and full ready, I'll try and build my own game.
