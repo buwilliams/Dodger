@@ -1,4 +1,7 @@
 # Dodger
+
+![dodger preview](dodger.png)
+
  My first 2d video game in Unity.
  
 ## Object of Game
