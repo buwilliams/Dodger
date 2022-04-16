@@ -8,7 +8,7 @@ public class LevelFailState : GameBaseState
         Debug.Log("LeveFailState:EnterState");
         manager.audioBackground.Stop();
         //manager.audioFailure.Play();
-        manager.PlayWaitLoad("SampleScene", manager.audioFailure);
+        manager.PlayWaitLoad("Dodger", manager.audioFailure);
     }
 
     public override void UpdateState(GameStateManager manager)
